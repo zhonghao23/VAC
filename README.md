@@ -118,4 +118,4 @@ license plate done by the resident.
 1. Open up command line and change the directory to the lcoation where 'vac-backend' stored. Type `<python app.py>` to start the backend server in development mode.
 
 ## Frontend
-1. 1. Open up command line and change the directory to the lcoation where 'vac-frontend' stored. Type `<npm run serve>` to start the frontend server in development mode.
+1. Open up command line and change the directory to the lcoation where 'vac-frontend' stored. Type `<npm run serve>` to start the frontend server in development mode.
