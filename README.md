@@ -70,6 +70,40 @@ license plate done by the resident.
 1. VSCode
 2. Microsoft SQL Server Management Studio 2018
 
+# Screenshots
+## License Plate Recognition (LPR)
+### Sample Video
+![image](https://user-images.githubusercontent.com/63278063/116912087-52cbaf00-ac7a-11eb-9a81-d7cbaf509eb6.png)
+
+### Extracted License Plate
+![image](https://user-images.githubusercontent.com/63278063/116912214-81498a00-ac7a-11eb-8301-66ed8de93ea4.png)
+
+### Result
+![image](https://user-images.githubusercontent.com/63278063/116912321-a3430c80-ac7a-11eb-91c5-046ded5a0c34.png)
+
+## Progressive Web Application (PWA)
+### Sample UI
+![image](https://user-images.githubusercontent.com/63278063/116912535-ed2bf280-ac7a-11eb-8a68-2489c7bdc276.png)
+
+![image](https://user-images.githubusercontent.com/63278063/116912802-485de500-ac7b-11eb-867c-c53f764a6607.png)
+
+![image](https://user-images.githubusercontent.com/63278063/116912867-5b70b500-ac7b-11eb-98de-27432d3b350e.png)
+
+![image](https://user-images.githubusercontent.com/63278063/116912933-73e0cf80-ac7b-11eb-8e4c-d5cf8edb0e3e.png)
+
+![image](https://user-images.githubusercontent.com/63278063/116912989-865b0900-ac7b-11eb-82ee-c68afe2ec549.png)
+
+### Progressive Web App Features
+![image](https://user-images.githubusercontent.com/63278063/116913047-95da5200-ac7b-11eb-839a-d7d26ad796cf.png)
+
+![image](https://user-images.githubusercontent.com/63278063/116913115-a8ed2200-ac7b-11eb-9be8-254ee484bbc2.png)
+
+![image](https://user-images.githubusercontent.com/63278063/116913146-b4404d80-ac7b-11eb-8788-cd955b16072a.png)
+
+
+
+
+# Installation
 
 
  
