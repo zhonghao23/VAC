@@ -100,10 +100,22 @@ license plate done by the resident.
 
 ![image](https://user-images.githubusercontent.com/63278063/116913146-b4404d80-ac7b-11eb-8788-cd955b16072a.png)
 
-
-
-
 # Installation
+## SQL Server
+1. Open up SSMS and restore the ‘VAC-04032021.bak’ file and set the destination database name as ‘VAC’.
+2. Version 15++
 
+## vac-lpr.py
+1. Find `<conn = pyodbc.connect('Driver={SQL Server};''Server=LAPTOP-H1SOMBBM\SQLEXPRESS;''Database=VAC;''Trusted_Connection=yes;')>` and change the Server to your device's server name.
+2. Change the path `<pytesseract.pytesseract.tesseract_cmd = r'C:\example\'>` to the destination of 'tesseract.exe' installed on your device.
+3. Change the path `<os.chdir(r'C:\Users\zhong\Desktop\Mr_CHIAM_ZHONG_HAO_TP045889_UC3F2007_CS\VAC-LPR\contours')>` to anywhere you want to store the cropped contours.
+4. Change the path `<cap = cv2.VideoCapture(r''C:\example\') >` to the destination of sample video stored.
 
- 
+## config.py
+1. Change the 'host' to your device's server name.
+
+## Backend
+1. Open up command line and change the directory to the lcoation where 'vac-backend' stored. Type `<python app.py>` to start the backend server in development mode.
+
+## Frontend
+1. 1. Open up command line and change the directory to the lcoation where 'vac-frontend' stored. Type `<npm run serve>` to start the frontend server in development mode.
